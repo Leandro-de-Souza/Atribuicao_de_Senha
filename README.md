@@ -1,0 +1,2 @@
+# Atribuicao_de_Senha
+O referido programa lê um número indeterminado de senhas digitadas pelo usuário até que uma senha válida seja digitada.. Para cada leitura de senha incorreta informada, a mensagem "Senha Invalida! Tente novamente:" é  apresentada pelo programa ao usuário. Quando a senha for informada corretamente é então impressa a mensagem "Acesso Permitido" e o algoritmo encerrado. O programa foi escrito com a senha de valor 2002 como a correta. Este programa está disponível nas linguagens C, C++, Java, C# e Python.
